@@ -1,0 +1,30 @@
+body {
+    background-color: #D7BDE2;
+}
+
+.sinformato {
+    text-decoration: none;
+    font-style: italic;
+    color: black;
+}
+
+h1 {
+    font-style: italic;
+}
+
+h3 {
+    font-style: italic;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: hotpink;
+}
+form{
+    gap: 100px;
+}
+h4{
+    font-style: italic;
+    font-weight: bold;
+}
